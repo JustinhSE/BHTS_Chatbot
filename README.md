@@ -2,7 +2,7 @@
 
 ### Project Overview 🚀🚀🚀
 
-- This React-based chatbot is your contribution to the FinLit project, aiming to enhance financial literacy among immigrants and young students. By leveraging a conversational interface, the chatbot provides a user-friendly platform for learning about key financial concepts.
+- This React-based chatbot is my contribution to the FinLit project, aiming to enhance financial literacy among immigrants and young students. By leveraging a conversational interface, the chatbot provides a user-friendly platform for learning about key financial concepts.
 
 ### Key Features 🔑
 
