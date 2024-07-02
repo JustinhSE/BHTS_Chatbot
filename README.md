@@ -13,3 +13,6 @@
 - React: Used to build the interactive chatbot interface.
 - react-simple-chatbot: A React library employed to create the chatbot framework.
 - styled-components: enhances CSS styling flexibility.
+
+
+** Currently under construction and final production will be shared in late july **
