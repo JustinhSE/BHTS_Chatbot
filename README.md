@@ -15,4 +15,3 @@
 - styled-components: enhances CSS styling flexibility.
 
 
-** Currently under construction and final production will be shared in late july **
